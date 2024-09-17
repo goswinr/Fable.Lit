@@ -15,7 +15,8 @@
     <ProjectReference Include="..\src\Lit.Test\Lit.Test.fsproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Fable.Elmish" Version="3.1.0" />
+    <PackageReference Include="Fable.Elmish" Version="4.2.0" />
+    <PackageReference Update="FSharp.Core" Version="8.0.400" />
     <!-- <PackageReference Include="Fable.Lit.Test" Version="1.0.0-rc-001" /> -->
   </ItemGroup>
 </Project>
