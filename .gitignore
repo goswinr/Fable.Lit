@@ -4,6 +4,7 @@ build/sample/*
 build/docs/*
 dist/
 *.fs.js
+*.fs.ts
 
 .idea/
 

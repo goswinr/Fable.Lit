@@ -26,6 +26,7 @@
         "nacara": "^1.7.0",
         "nacara-layout-standard": "^1.8.0",
         "shx": "^0.3.4",
+        "typescript": "^5.6.2",
         "vite": "^5.4.6",
         "vscode-theme-onelight": "github:akamud/vscode-theme-onelight"
     }
